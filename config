@@ -32,8 +32,7 @@
 <body>
     <div class="viewer-container">
         <h2>Verkada</h2>
-        <iframe src="https://vauth.command.verkada.com/embed/html/b9f1a456-07ae-4a39-a32b-69ae1a8f1096/" 
-                frameborder="0" 
+        <iframe src="https://vauth.command.verkada.com/embed/html/01760be5-4f7c-4e96-b728-6190db9103c5/" frameborder="0"
                 allowfullscreen>
         </iframe>
     </div>
